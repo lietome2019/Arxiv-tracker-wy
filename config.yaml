@@ -1,18 +1,14 @@
-categories: ["q-bio.BM", "q-bio.MN", "q-bio.OT"]
+categories: ["q-bio.BM", "q-bio.MN", "q-bio.GN"]
 keywords:
+  - "Ginsenoside Compound K"
   - "Ginsenoside CK"
-  - "Compound K"
-  - "synthetic biology"
-  - "metabolic engineering"
-  - "biosynthesis"
-  - "microbial cell factory"
-  - "Saccharomyces cerevisiae"
-  - "yeast fermentation"
+  - "Synthetic biology"
+  - "Metabolic engineering"
+  - "Protopanaxadiol"
   - "UDP-glycosyltransferase"
-  - "UGT"
-  - "protopanaxadiol"
-  - "PPD"
-  - "UDP-glucose"
+  - "Yeast cell factory"
+  - "Saccharomyces cerevisiae"
+  - "Triterpenoid"
 
 # exclude_keywords: # 选择排除的关键词
 #   - "Large Language Model"
