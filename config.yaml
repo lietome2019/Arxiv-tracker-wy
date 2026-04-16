@@ -1,12 +1,18 @@
-categories: ["cs.CV", "cs.LG", "cs.AI"]
+categories: ["q-bio.BM", "q-bio.MN", "q-bio.OT"]
 keywords:
-  - "open vocabulary"
-  - "open-vocabulary"
-  - "open vocabulary segmentation"
-  - "open-vocabulary segmentation"
-  - "vision language model"
-  - "training-free"
-  - "training free"
+  - "Ginsenoside CK"
+  - "Compound K"
+  - "synthetic biology"
+  - "metabolic engineering"
+  - "biosynthesis"
+  - "microbial cell factory"
+  - "Saccharomyces cerevisiae"
+  - "yeast fermentation"
+  - "UDP-glycosyltransferase"
+  - "UGT"
+  - "protopanaxadiol"
+  - "PPD"
+  - "UDP-glucose"
 
 # exclude_keywords: # 选择排除的关键词
 #   - "Large Language Model"
